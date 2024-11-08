@@ -5,9 +5,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong passion f
 ## About Me
 - 🔭 I’m currently majoring in Software Engineering
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about [Your Expertise]
 - 📫 How to reach me: acele4444@gmail.com
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -19,4 +17,5 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong passion f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](linkedin.com/in/acele-happy-b9a7411b5/)
 
 ![Acele Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=acele-happy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acele-happy&theme=radical&title_color=8E2DE2&text_color=fff)
 
