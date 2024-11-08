@@ -16,6 +16,3 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong passion f
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](linkedin.com/in/acele-happy-b9a7411b5/)
 
-![Acele Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=acele-happy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acele-happy&theme=radical&title_color=8E2DE2&text_color=fff)
-
