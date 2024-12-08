@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Acele Happy
 
-Welcome to my GitHub profile! I'm a full-stack developer with a strong passion for backend development.
+Welcome to my GitHub profile! I'm a full-stack developer focused on crafting practical tools and systems that make everyday challenges easier to tackle.
 
 ## About Me
 - 🔭 I’m currently majoring in Software Engineering
